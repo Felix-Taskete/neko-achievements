@@ -104,9 +104,9 @@
   level: 12
   threshold: 1000
   metadata:
-    title_ru: Точка невозврата
-    text_ru: Вы достигли четырёхзначного числа. Довольны?
-    image: /assets/achievements/anime/animelist_12.jpg
+    title_ru: Пиздец Настал
+    text_ru: Я опасный нахуй
+    image: https://sun9-73.userapi.com/impg/lY-6fBAJ3Z5gNmtGBraizAvkYBWlpCgAvSRM3g/HTLgSOokKlQ.jpg?size=1280x802&quality=96&proxy=1&sign=83db434d3eb0da5cd21077e8c3505a5a&type=album
     border_color: "#a2a2d0"
 
 - <<: *defaults
